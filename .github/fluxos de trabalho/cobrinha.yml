@@ -23,4 +23,3 @@ empregos :
           build_dir : dist
         ambiente :
           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
-
