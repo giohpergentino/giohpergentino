@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actionsnome : Gerar Dados
+nome : Gerar Dados
 
 em :
   schedule : # executa a cada 12 horas
