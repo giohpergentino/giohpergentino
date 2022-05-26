@@ -16,9 +16,11 @@
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-  
-  ##
  
+  ##
+ ## Meu portifólio: 
+ <a href="https://myportifolioprofissional.web.app/"><img src="https://img.icons8.com/dusk/64/000000/web.png"/> </a>
+  ## 
 <div> 
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a >
  <a href = "mailto:giovannapergentinocs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white                 " 
