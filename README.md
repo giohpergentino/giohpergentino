@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonada por tecnologia
-- 🌱 Estudante Sistemas da Informação 4/8     
+- 🌱 Estudante Sistemas da Informação 5/8     
 
 <div align="center">
   <a href="https://github.com/giohpergentino">
