@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonada por tecnologia
-- 🌱 Estudante Sistemas da Informação 5/8     
+- 🌱 Estudante Sistemas da Informação 6/8     
 
 <div align="center">
   <a href="https://github.com/giohpergentino">
@@ -16,15 +16,6 @@
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">    
 </div>
- 
-  ## 
-<div> 
- <a href = "mailto:giovannapergentinocs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white                 " 
-        target="_blank"></a>      
-  <a href="https://www.linkedin.com/in/giovannapergentino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>          
-
-  ![Snake animation](https://github.com/giohpergentino/giohpergentino/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
   
