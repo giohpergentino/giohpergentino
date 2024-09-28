@@ -8,6 +8,8 @@
 
 🔗 Confira o meu perfil no <a href="https://www.linkedin.com/in/giovannapergentino/" target="_blank">LinkedIn</a> para saber mais sobre minha experiência e projetos
 
+##
+
 <div align="center">
   <a href="https://github.com/giohpergentino">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=giohpergentino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,6 +28,8 @@
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
 </div>
+
+##
 
 <p align="center">
   <a href="https://github.com/giohpergentino">
