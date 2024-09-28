@@ -1,8 +1,12 @@
-### Olá! Eu sou Giovanna Pergentino
+### Olá! Eu sou Giovanna Pergentino 🚀
 
 
-- 🔭 Apaixonada por tecnologia
-- 🌱 Estudante Sistemas da Informação 6/8     
+- 💻 Apaixonada por tecnologia e desenvolvimento Fullstack
+- 🎓 Graduanda em Sistemas de Informação (6/8)
+- 🌱 Explorando Machine Learning, Big Data e IoT
+- ⚙️ Trabalho com React.js, Node.js, TypeScript, Docker, AWS e mais
+
+🔗 Confira o meu perfil no <a href="https://www.linkedin.com/in/giovannapergentino/" target="_blank">LinkedIn</a> para saber mais sobre minha experiência e projetos
 
 <div align="center">
   <a href="https://github.com/giohpergentino">
