@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/giohpergentino">
-    <img src="https://komarev.com/ghpvc/?username=carloosf&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=giohpergentino&color=blue&style=flat)" />
   </a>
 </p>
 
