@@ -2,7 +2,7 @@
 
 
 - 💻 Apaixonada por tecnologia e desenvolvimento Fullstack
-- 🎓 Graduanda em Sistemas de Informação (6/8)
+- 🎓 Graduanda em Sistemas de Informação (7/8)
 - 🌱 Explorando Machine Learning, Big Data e IoT
 - ⚙️ Trabalho com React.js, Node.js, TypeScript, Docker, AWS e mais
 
